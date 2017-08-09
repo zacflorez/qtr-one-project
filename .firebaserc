@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "zf-qtr-one-project",
+    "production": "zf-qtr-one-project"
+  }
+}

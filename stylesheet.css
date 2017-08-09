@@ -1,0 +1,65 @@
+
+.input-field input[type=text]:focus + label {
+  color: #000;
+}
+
+.materialize-textarea {
+  margin-left: 200px;
+  margin-right: 175px;
+}
+
+.error-msg{
+  padding-top: 30px;
+  margin-left: 200px;
+}
+
+#txt-center {
+  color: white;
+}
+
+h5 {
+  font-family: 'Didact Gothic', sans-serif;
+  padding-top: 50px;
+}
+
+.nav-wrapper{
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.card-panel {
+	display: inline-flex;
+	width: 40%;
+	margin: 1%;
+	padding: 4%;
+	min-height: 250px;
+	box-shadow: 2px 3px 5px #cecece;
+  color: white;
+  border-radius: 25px;
+}
+
+.card-panel a:link {color: white}
+.card-panel a:visited {color: white}
+.card-panel a:active {color: white}
+.card-panel a:hover {color: #bcaaa4}
+
+@media screen and (min-width: 650px) {
+	.card-panel {
+		width: 45%;
+		margin: 1%;
+	}
+}
+
+@media screen and (min-width: 1050px) {
+	.card-panel {
+		width: 31%;
+		padding: 1% 2%;
+		margin: 1%;
+	}
+
+.parallax-container{
+  margin-top: 35px;
+}
+
+span{
+  font-weight: bold;
+}
