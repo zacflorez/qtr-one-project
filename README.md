@@ -1,5 +1,4 @@
-# qtr-one-project
-Galvanize first quarter project
+Legislator Project
 
 This website utilizes the Sunlight Foundation (ProPublica) API to gather and display congressional data.  The site was styled with the Materialize CSS framework, which allowed for customized icon and form options and is deployed via firebase.  
 
